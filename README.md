@@ -27,4 +27,8 @@ There are other protocols for communicating over the internet, but HTTP is the m
 ![image](https://github.com/user-attachments/assets/075027db-ddbe-4e96-b827-684c9204f7cf)
 
 
+<br />
 
+# HTTP URLS
+HTTP URLs
+A URL, or Uniform Resource Locator, is the address of another computer, or "server" on the internet. Part of the URL specifies where to reach the server, and part of it tells the server what information we want.
