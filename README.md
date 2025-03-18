@@ -60,3 +60,17 @@ Other communication protocols use URLs as well, (hence "Uniform Resource Locator
 - A computer can be a client, a server, both, or neither. "Client" and "server" are just words we use to describe what computers are doing within a communication system.
 - Clients send requests and receive responses.
 - Servers receive requests and send responses.
+
+
+<br />
+# Web Clients
+
+A client can be any type of device but is often something users physically interact with. For example:
+
+- A desktop computer.
+- A mobile phone.
+- A tablet.
+- In a website or web application, we call the user's device the "front-end".
+
+A front-end client makes requests to a back-end server.
+
