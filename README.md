@@ -1,6 +1,12 @@
 # Ether
 Networking
 
+<hr />
+
+- HTTP
+- JSON
+ 
+<hr />
 
 Communicating on the Web
 Instagram would be pretty terrible if you had to manually copy your photos to your friend's phone when you wanted to share them. Modern applications need to be able to communicate information between devices over the internet.
